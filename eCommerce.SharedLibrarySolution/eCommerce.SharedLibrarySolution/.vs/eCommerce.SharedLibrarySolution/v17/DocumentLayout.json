@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MINDWORKS\\Desktop\\Microservice\\eCommerce.SharedLibrarySolution\\eCommerce.SharedLibrarySolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\MINDWORKS\\Desktop\\Microservice\\eCommerce.SharedLibrarySolution\\eCommerce.SharedLibrarySolution\\Middleware\\ListenToOnlyApiGateway.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Middleware\\ListenToOnlyApiGateway.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\MINDWORKS\\Desktop\\Microservice\\eCommerce.SharedLibrarySolution\\eCommerce.SharedLibrarySolution\\Interface\\IGenericInterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Interface\\IGenericInterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\MINDWORKS\\Desktop\\Microservice\\eCommerce.SharedLibrarySolution\\eCommerce.SharedLibrarySolution\\Logs\\LogExceptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Logs\\LogExceptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\MINDWORKS\\Desktop\\Microservice\\eCommerce.SharedLibrarySolution\\eCommerce.SharedLibrarySolution\\Responses\\Response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Responses\\Response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\MINDWORKS\\Desktop\\Microservice\\eCommerce.SharedLibrarySolution\\eCommerce.SharedLibrarySolution\\Middleware\\GlobalException.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Middleware\\GlobalException.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IGenericInterface.cs",
+              "DocumentMoniker": "C:\\Users\\MINDWORKS\\Desktop\\Microservice\\eCommerce.SharedLibrarySolution\\eCommerce.SharedLibrarySolution\\Interface\\IGenericInterface.cs",
+              "RelativeDocumentMoniker": "Interface\\IGenericInterface.cs",
+              "ToolTip": "C:\\Users\\MINDWORKS\\Desktop\\Microservice\\eCommerce.SharedLibrarySolution\\eCommerce.SharedLibrarySolution\\Interface\\IGenericInterface.cs",
+              "RelativeToolTip": "Interface\\IGenericInterface.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T16:57:42.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LogExceptions.cs",
+              "DocumentMoniker": "C:\\Users\\MINDWORKS\\Desktop\\Microservice\\eCommerce.SharedLibrarySolution\\eCommerce.SharedLibrarySolution\\Logs\\LogExceptions.cs",
+              "RelativeDocumentMoniker": "Logs\\LogExceptions.cs",
+              "ToolTip": "C:\\Users\\MINDWORKS\\Desktop\\Microservice\\eCommerce.SharedLibrarySolution\\eCommerce.SharedLibrarySolution\\Logs\\LogExceptions.cs",
+              "RelativeToolTip": "Logs\\LogExceptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T16:57:38.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Response.cs",
+              "DocumentMoniker": "C:\\Users\\MINDWORKS\\Desktop\\Microservice\\eCommerce.SharedLibrarySolution\\eCommerce.SharedLibrarySolution\\Responses\\Response.cs",
+              "RelativeDocumentMoniker": "Responses\\Response.cs",
+              "ToolTip": "C:\\Users\\MINDWORKS\\Desktop\\Microservice\\eCommerce.SharedLibrarySolution\\eCommerce.SharedLibrarySolution\\Responses\\Response.cs",
+              "RelativeToolTip": "Responses\\Response.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T16:57:34.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ListenToOnlyApiGateway.cs",
+              "DocumentMoniker": "C:\\Users\\MINDWORKS\\Desktop\\Microservice\\eCommerce.SharedLibrarySolution\\eCommerce.SharedLibrarySolution\\Middleware\\ListenToOnlyApiGateway.cs",
+              "RelativeDocumentMoniker": "Middleware\\ListenToOnlyApiGateway.cs",
+              "ToolTip": "C:\\Users\\MINDWORKS\\Desktop\\Microservice\\eCommerce.SharedLibrarySolution\\eCommerce.SharedLibrarySolution\\Middleware\\ListenToOnlyApiGateway.cs",
+              "RelativeToolTip": "Middleware\\ListenToOnlyApiGateway.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T16:57:28.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GlobalException.cs",
+              "DocumentMoniker": "C:\\Users\\MINDWORKS\\Desktop\\Microservice\\eCommerce.SharedLibrarySolution\\eCommerce.SharedLibrarySolution\\Middleware\\GlobalException.cs",
+              "RelativeDocumentMoniker": "Middleware\\GlobalException.cs",
+              "ToolTip": "C:\\Users\\MINDWORKS\\Desktop\\Microservice\\eCommerce.SharedLibrarySolution\\eCommerce.SharedLibrarySolution\\Middleware\\GlobalException.cs",
+              "RelativeToolTip": "Middleware\\GlobalException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T16:57:27.066Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

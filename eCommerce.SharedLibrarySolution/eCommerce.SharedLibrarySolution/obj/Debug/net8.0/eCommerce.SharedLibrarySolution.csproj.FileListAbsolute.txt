@@ -1,0 +1,11 @@
+C:\Users\MINDWORKS\Desktop\Microservice\eCommerce.SharedLibrarySolution\eCommerce.SharedLibrarySolution\bin\Debug\net8.0\eCommerce.SharedLibrarySolution.deps.json
+C:\Users\MINDWORKS\Desktop\Microservice\eCommerce.SharedLibrarySolution\eCommerce.SharedLibrarySolution\bin\Debug\net8.0\eCommerce.SharedLibrarySolution.dll
+C:\Users\MINDWORKS\Desktop\Microservice\eCommerce.SharedLibrarySolution\eCommerce.SharedLibrarySolution\bin\Debug\net8.0\eCommerce.SharedLibrarySolution.pdb
+C:\Users\MINDWORKS\Desktop\Microservice\eCommerce.SharedLibrarySolution\eCommerce.SharedLibrarySolution\obj\Debug\net8.0\eCommerce.SharedLibrarySolution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MINDWORKS\Desktop\Microservice\eCommerce.SharedLibrarySolution\eCommerce.SharedLibrarySolution\obj\Debug\net8.0\eCommerce.SharedLibrarySolution.AssemblyInfoInputs.cache
+C:\Users\MINDWORKS\Desktop\Microservice\eCommerce.SharedLibrarySolution\eCommerce.SharedLibrarySolution\obj\Debug\net8.0\eCommerce.SharedLibrarySolution.AssemblyInfo.cs
+C:\Users\MINDWORKS\Desktop\Microservice\eCommerce.SharedLibrarySolution\eCommerce.SharedLibrarySolution\obj\Debug\net8.0\eCommerce.SharedLibrarySolution.csproj.CoreCompileInputs.cache
+C:\Users\MINDWORKS\Desktop\Microservice\eCommerce.SharedLibrarySolution\eCommerce.SharedLibrarySolution\obj\Debug\net8.0\eCommerce.SharedLibrarySolution.dll
+C:\Users\MINDWORKS\Desktop\Microservice\eCommerce.SharedLibrarySolution\eCommerce.SharedLibrarySolution\obj\Debug\net8.0\refint\eCommerce.SharedLibrarySolution.dll
+C:\Users\MINDWORKS\Desktop\Microservice\eCommerce.SharedLibrarySolution\eCommerce.SharedLibrarySolution\obj\Debug\net8.0\eCommerce.SharedLibrarySolution.pdb
+C:\Users\MINDWORKS\Desktop\Microservice\eCommerce.SharedLibrarySolution\eCommerce.SharedLibrarySolution\obj\Debug\net8.0\ref\eCommerce.SharedLibrarySolution.dll

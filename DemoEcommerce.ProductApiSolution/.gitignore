@@ -1,0 +1,60 @@
+# User-specific files
+.vs/
+.vscode/
+.idea/
+
+# Windows installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows Installer Packages
+*.ps1
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Dd]Release/
+[Dd]ReleasePublic/
+[Aa]ssemblyInfo.cs
+[Aa]ssemblyInfo.cs.orig
+
+# User-specific files
+*.user
+*.userosscache
+*.suo
+*.userprefs
+
+# .NET Core and ASP.NET Core
+bin/
+obj/
+
+# .NET SDK and runtime
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# VS for Mac
+.vscode/
+
+# Windows Installer logs
+*.cab
+*.msi
+*.msp
+*.pdb
+
+# Rider
+.idea/
+
+# Test Results
+TestResults/
+
+# Backup files
+*~
+*.bak
+*.swp
