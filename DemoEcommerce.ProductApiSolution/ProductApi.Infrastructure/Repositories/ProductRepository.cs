@@ -76,29 +76,60 @@ namespace ProductApi.Infrastructure.Repositories
 
         public async Task<IEnumerable<Product>> GetAllAsync()
         {
-            throw new NotImplementedException();
-            //try
-            //{
-            //    var product = await context.Products.ToListAsync()
-            //}
-            //catch (Exception ex)
-            //{
-            //    // Log original exception
-            //    LogException.LogExceptions(ex);
+            try
+            {
+                var products = await context.Products.ToListAsync();
+                return products is not null ? products : null;
+            }
+            catch (Exception ex)
+            {
+                // Log original exception
+                LogException.LogExceptions(ex);
 
-            //    // Display scary-free message to client
-            //    throw new InvalidOperationException("Error Occured while retrieving products");
-            //}
+                // Display scary-free message to client
+                throw new InvalidOperationException("Error Occured while retrieving products");
+            }
         }
 
-        public Task<Product> GetByAsync(Expression<Func<Product, bool>> predicate)
+        public async Task<Product> GetByAsync(Expression<Func<Product, bool>> predicate)
         {
-            throw new NotImplementedException();
+            try
+            {
+                var product = await context.Products.Where(predicate).FirstOrDefaultAsync();
+                return product is not null ? product : null;
+            }
+            catch (Exception ex)
+            {
+                // Log original exception
+                LogException.LogExceptions(ex);
+
+                // Display scary-free message to client
+                throw new InvalidOperationException("Error Occured while retrieving product");
+            }
+
         }
 
-        public Task<Response> UpdateAsync(Product entity)
+        public async Task<Response> UpdateAsync(Product entity)
         {
-            throw new NotImplementedException();
+            try
+            {
+                var product = await FindByIdAsync(entity.Id);
+                if(product is null)
+                    return new Response(false, $"{entity.Name} ot found");
+
+                context.Entry(product).State = EntityState.Detached;
+                context.Products.Update(entity);
+                await context.SaveChangesAsync();
+                return new Response(true, $"{entity.Name} updated successfully");
+            }
+            catch (Exception ex)
+            {
+                // Log original exception
+                LogException.LogExceptions(ex);
+
+                // Display scary-free message to client
+                return new Response(false, "Error Occured while retrieving products");
+            }
         }
     }
 }
