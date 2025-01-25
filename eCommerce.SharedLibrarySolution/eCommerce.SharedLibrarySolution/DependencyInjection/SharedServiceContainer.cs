@@ -42,7 +42,7 @@ namespace eCommerce.SharedLibrary.DependencyInjection
             app.UseMiddleware<GlobalException>();
 
             // Register middleware to block all ousiders
-            app.UseMiddleware<ListenToOnlyApiGateway>();
+            //app.UseMiddleware<ListenToOnlyApiGateway>();
 
             return app;
         }
